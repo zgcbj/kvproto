@@ -2,7 +2,7 @@
 
 Protocol buffer files for TiKV
 
-# Usage
+# Usage 
 
 + Write your own protocol file in proto folder.
 + If you need to update raft-rs, please download the proto file
